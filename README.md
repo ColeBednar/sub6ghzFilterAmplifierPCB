@@ -1,44 +1,51 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Cole Bednar, Electrical Engineering Graduate Student (2026)
+colembednar@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
 
 ## Current Status
-IN PROGRESS
+IN PROGRESS - PCB's and components have been ordered. A reflow oven and soldering station will be needed. 
 
 ## Project Overview
+A sub6GHz RF Front End PCB for a spread spectrum comm system. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Uses parts from mini circuits and mouser. 
+
+4-layer PCB with amplifier and filter functionality
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Soldering (reflow and hand-soldering)
+PCB Design
+RF Front End Design
+Amplifier Biasing
 
 ## Tasks
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Use solder paste and reflow oven to solder components to the PCB
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Cost effective parts
+Size of parts
+Hand vs. reflow soldering
+Frequency Range
+
 
 ## Design Misc
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Everything has already been purchased by VTNSI 
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+As soon as possible. PCB's have already been shipped. 
 
 ## Useful Links
 
@@ -47,3 +54,4 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
