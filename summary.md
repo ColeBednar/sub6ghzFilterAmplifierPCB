@@ -1,8 +1,9 @@
 # Student Names 
-Henry Forsyth
+Cole Bednar
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Sub-6GHz Filter and Amplifier PCB
 
 # Date Started
-11-16-2000
+01-28-2026
+
